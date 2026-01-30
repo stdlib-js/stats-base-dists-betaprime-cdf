@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-08)
+## Unreleased (2026-01-30)
 
 <section class="commits">
 
@@ -14,8 +14,8 @@
 
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
--   [`3353337`](https://github.com/stdlib-js/stdlib/commit/3353337506226163bbe65241b088b899f0a4b60c) - **bench:** update random value generation [(#6840)](https://github.com/stdlib-js/stdlib/pull/6840) _(by Harsh)_
--   [`b2aa3f7`](https://github.com/stdlib-js/stdlib/commit/b2aa3f7fc67e416f476455522f9189d586915d2e) - **docs:** replace manual `for` loop in examples [(#6830)](https://github.com/stdlib-js/stdlib/pull/6830) _(by Harsh)_
+-   [`3353337`](https://github.com/stdlib-js/stdlib/commit/3353337506226163bbe65241b088b899f0a4b60c) - **bench:** update random value generation [(#6840)](https://github.com/stdlib-js/stdlib/pull/6840) _(by Harsh Yadav)_
+-   [`b2aa3f7`](https://github.com/stdlib-js/stdlib/commit/b2aa3f7fc67e416f476455522f9189d586915d2e) - **docs:** replace manual `for` loop in examples [(#6830)](https://github.com/stdlib-js/stdlib/pull/6830) _(by Harsh Yadav)_
 -   [`68894a1`](https://github.com/stdlib-js/stdlib/commit/68894a16cc999587091fdc3b014d21b64d3dde79) - **bench:** refactor random number generation in `stats/base/dists/betaprime` [(#4840)](https://github.com/stdlib-js/stdlib/pull/4840) _(by Karan Anand)_
 
 </details>
@@ -30,7 +30,7 @@
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
