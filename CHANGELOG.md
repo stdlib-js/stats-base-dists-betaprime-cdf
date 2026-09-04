@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-04)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6be877e`](https://github.com/stdlib-js/stdlib/commit/6be877ef64519a3555f349343d04a87d3358f8ec) - **test:** migrate `stats/base/dists/betaprime/cdf` to ULP-based assertions [(#14962)](https://github.com/stdlib-js/stdlib/pull/14962) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
